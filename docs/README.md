@@ -2,14 +2,13 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e19-co227-Remote-Controlled-PLC-Training-Kit
+title: Remote Controlled PLC Training Kit
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Remote Controlled PLC Training Kit
 
 ---
 
@@ -20,24 +19,21 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/105, M.H.M. Fahman, [email](mailto:e19105@eng.pdn.ac.lk)
+-  E/19/106, M.F.M. Faseeh, [email](mailto:e19106@eng.pdn.ac.lk)
+-  E/19/244, Mohanathas H. Miss, [email](mailto:e19244@eng.pdn.ac.lk)
+-  E/19/247, S.M. Musthak, [email](mailto:e19247@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
+2. [Links](#links)
 
 ---
 
 ## Introduction
 
- description of the real world problem and solution, impact
+The project aims to transform the department's PLC training kit into a remote control lab using relay-based technology. By integrating relays, the lab's functionalities can be controlled remotely through a digital interface. This innovative approach enhances accessibility, allowing users to engage with the PLC training kit from any location. Through relay-based control, participants can remotely simulate real-world industrial scenarios, gaining valuable hands-on experience. This project emphasizes practical learning, providing students with a convenient and versatile platform to develop their skills in programmable logic controllers and automation systems.
 
-## Other Sub Topics
-
-.....
 
 ## Links
 
