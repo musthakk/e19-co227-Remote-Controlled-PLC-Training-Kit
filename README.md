@@ -11,7 +11,7 @@ ___
 
 ## Team
 
-E/19/105 M.H.M. Fahman
-E/19/106 M.F.M. Faseeh
-E/19/244 Mohanathas H. Miss
-E/19/247 S.M. Musthak
+E/19/105 - M.H.M. Fahman, 
+E/19/106 - M.F.M. Faseeh, 
+E/19/244 - Mohanathas H. Miss, 
+E/19/247 - S.M. Musthak,
