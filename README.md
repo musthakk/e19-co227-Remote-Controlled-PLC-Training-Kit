@@ -12,7 +12,7 @@ ___
 
 ## Team
 
-E/19/105 - M.H.M. Fahman, 
-E/19/106 - M.F.M. Faseeh, 
-E/19/244 - Mohanathas H. Miss, 
-E/19/247 - S.M. Musthak,
+- E/19/105: [M.H.M. Fahman](https://people.ce.pdn.ac.lk/students/e19/105/)
+- E/19/106: [M.F.M. Faseeh](https://people.ce.pdn.ac.lk/students/e19/106/)
+- E/19/244: [Mohanathas H.](https://people.ce.pdn.ac.lk/students/e19/244/)
+- E/19/247: [S.M. Musthak](https://people.ce.pdn.ac.lk/students/e19/247/)
