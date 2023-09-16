@@ -1,6 +1,7 @@
 ___
 # Remote Controlled PLC Training Kit
 ___
+<img src="https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/PLC-Training-Kit.jpg"/>
 
 ## Description
 
