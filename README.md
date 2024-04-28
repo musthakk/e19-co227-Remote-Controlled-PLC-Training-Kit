@@ -4,7 +4,7 @@ ___
 ___
 <img src="https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/PLC-Training-Kit.jpg"/>
 
-<img src="https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/Dashboard.jpeg"/>
+<img src="https://github.com/musthakk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/Dashboard.jpeg"/>
 
 # Remote Controlled PLC Training Kit
 
