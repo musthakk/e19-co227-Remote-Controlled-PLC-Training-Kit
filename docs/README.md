@@ -10,29 +10,45 @@ title: Remote Controlled PLC Training Kit
 
 # Remote Controlled PLC Training Kit
 
----
+![PLC Training Kit](https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/PLC-Training-Kit.jpg)
 
-<!-- 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+## Project Overview
+The Remote Controlled PLC Training Kit is an educational project designed for users to learn about Programmable Logic Controllers (PLCs) and automation systems. It features the integration of PLCs and Arduinos to control relays and allows direct interfacing of analog inputs. The user-friendly web-based interface is developed using Node-RED, eliminating the need for a separate app download.
 
-![Sample Image](./images/sample.png)
- -->
+## Project Components
+- **PLC:** The central control unit responsible for remote process management.
+- **Arduino:** Controls the relays and interfaces with analog inputs.
+- **Relays:** Connected to digital inputs of the PLC for remote control.
+- **Analog Inputs:** Directly interfaced with the Arduino for data acquisition.
+- **Node-RED:** Provides a user-friendly web interface.
 
-## Team
--  E/19/105, M.H.M. Fahman, [email](mailto:e19105@eng.pdn.ac.lk)
--  E/19/106, M.F.M. Faseeh, [email](mailto:e19106@eng.pdn.ac.lk)
--  E/19/244, Mohanathas H. Miss, [email](mailto:e19244@eng.pdn.ac.lk)
--  E/19/247, S.M. Musthak, [email](mailto:e19247@eng.pdn.ac.lk)
+## Key Features
+- User-friendly web-based interface developed with Node-RED.
+- Remote control of relays via digital inputs of the PLC.
+- Direct interfacing of analog inputs with the Arduino.
+- No app download required; access the system with an internet connection.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Links](#links)
+## Getting Started
+To begin using the Remote Controlled PLC Training Kit, follow these steps:
 
----
+1. Ensure a stable internet connection.
+2. Open your web browser.
+3. Access the training kit interface using the provided URL.
+4. Log in and start exploring and controlling the system.
 
-## Introduction
+## Future Enhancements
+We are committed to enhancing the training kit. Future improvements may include additional features, enhanced usability, and expanded educational resources.
 
-The project aims to transform the department's PLC training kit into a remote control lab using relay-based technology. By integrating relays, the lab's functionalities can be controlled remotely through a digital interface. This innovative approach enhances accessibility, allowing users to engage with the PLC training kit from any location. Through relay-based control, participants can remotely simulate real-world industrial scenarios, gaining valuable hands-on experience. This project emphasizes practical learning, providing students with a convenient and versatile platform to develop their skills in programmable logic controllers and automation systems.
+## Feedback and Contributions
+We value feedback and contributions from the community. If you have suggestions, encounter issues, or wish to contribute to the project, please reach out to us.
+
+## Meet the Team
+- E/19/105: [M.H.M. Fahman](https://people.ce.pdn.ac.lk/students/e19/105/)
+- E/19/106: [M.F.M. Faseeh](https://people.ce.pdn.ac.lk/students/e19/106/)
+- E/19/244: [Mohanathas H.](https://people.ce.pdn.ac.lk/students/e19/244/)
+- E/19/247: [S.M. Musthak](https://people.ce.pdn.ac.lk/students/e19/247/)
+
+We hope you find the Remote Controlled PLC Training Kit valuable for learning and experimentation in the field of PLCs and automation!
 
 
 ## Links
