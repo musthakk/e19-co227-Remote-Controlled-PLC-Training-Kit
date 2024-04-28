@@ -17,6 +17,7 @@ The Remote Controlled PLC Training Kit is a hands-on educational project that al
 - Node-RED: Provides the user interface for the training kit, eliminating the need for a separate app download.
 
 ## Features
+___
 <img src="https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit/blob/main/Dashboard.jpeg"/>
 - User-friendly web-based interface developed using Node-RED.
 - Remote control of relays through digital inputs of the PLC.
